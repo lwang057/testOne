@@ -25,7 +25,7 @@ public class GoodsServiceTest {
     public void testSaveGoods() {
 
         Goods goods = new Goods();
-        goods.setId(119);
+        goods.setId(120);
         goodsService.saveGoods(goods);
     }
 
